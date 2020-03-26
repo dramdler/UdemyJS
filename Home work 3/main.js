@@ -90,10 +90,5 @@ function checkSavings(){
 }
 checkSavings()
 
-
-<<<<<<< HEAD
-=======
-
->>>>>>> b539651b606e25a8311f26fe92189c200869c3a2
 //console.log(appData)
 
