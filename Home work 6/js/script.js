@@ -20,4 +20,4 @@ document.querySelector('#title').innerHTML = 'Мы продаем только �
 document.querySelector('.adv').remove();
 
 //отношение к технике apple 
-document.querySelector('#prompt').innerHTML = prompt('Опишите ваше отношение к технике APPLE ');LikeApple;
+document.querySelector('#prompt').innerHTML = prompt
